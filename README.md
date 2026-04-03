@@ -1,5 +1,5 @@
 # -urchase_receipt
-## Демо: https://hanna-alex.github.io/-urchase_receipt/
+## Демо: https://hanna-alex.github.io/-purchase_receipt/
 
 - В приложении доступны функции:
     - Добавление товаров
